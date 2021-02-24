@@ -1,7 +1,7 @@
 # PigPoing
 PigPoing se trata de uma espécie de "cofrinho inteligente", onde você insere suas moedas e ele conta a quantidade inserida, bem como o valor total em reais depositado. O valor monetário aparece em um display LCD, enquanto a quantidade de moedas é exibida em dois displays de 7 segmentos.
 
-![PigPoingLogo](https://cdn.discordapp.com/attachments/806262947160653834/814185249125695508/pigPoingLogo.jpeg)
+![Pig Poing Logo](https://cdn.discordapp.com/attachments/806262947160653834/814207232412483584/pigPoingLogo.png)
 
 
 É importante deixar claro que esse projeto não foi feito fisicamente, e sim a partir do simulador online de arduino, [tinkercad](https://www.tinkercad.com/). 
