@@ -29,3 +29,8 @@ A seguir, tem-se um modelo idealizado do PigPoing na sua forma física:
 ![PigPing](https://cdn.discordapp.com/attachments/806262947160653834/814184223681675344/porquinho.jpeg)
 
 Por fim, é necessário esclarecer que, uma vez que a quantidade das moedas é exibida em dois displays de 7 segmentos, a contagem de moedas vai até 99. Sendo assim, o PigPoing foi programado para zerar a contagem de moedas quando atingida a quantidade máxima.
+## Colaboradores:
+* Gabriel Alexandre Carvalho
+* [Joaquim Breno Brito Cavalcante](https://github.com/JoaquimBreno)
+* Maria Cândida Barbosa Lima
+* [Renata Mendes Pereira Campos](https://github.com/renatamendesc)
