@@ -15,8 +15,8 @@ Quantidade|Componente|Preço
 1|Display LCD 16x2|R$ 23,00
 1|Potenciômetro|R$ 9,00
 2|Arduinos Uno R3|R$ 64,00
-2|Decodificadores CD4511|R$5,00
-14|Resistores - 1kΩ|R$2,00
+2|Decodificadores CD4511|R$ 5,00
+14|Resistores - 1kΩ|R$ 2,00
 1|Resistor - 220Ω|R$ 0,13
 
 **Orçamento total: R$127,13**
