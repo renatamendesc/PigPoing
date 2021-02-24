@@ -7,6 +7,8 @@ PigPoing se trata de uma espécie de "cofrinho inteligente", onde você insere s
 É importante deixar claro que esse projeto não foi feito fisicamente, e sim a partir do simulador online de arduino, [tinkercad](https://www.tinkercad.com/). 
 
 ## Componentes e preço:
+Apesar do projeto não ter sido elaborado de forma física, ou seja, não foi gasto dinheiro com ele, abaixo tem-se uma lista dos componentes utilizados no circuito e seus respectivos preços (aproximadamente):
+
 Quantidade|Componente|Preço
 ---|---|---
 2|Display de 7 segmentos|R$ 24,00
