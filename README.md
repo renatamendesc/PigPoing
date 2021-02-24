@@ -19,7 +19,7 @@ Quantidade|Componente|Preço
 14|Resistores - 1kΩ|R$ 2,00
 1|Resistor - 220Ω|R$ 0,13
 
-**Orçamento total: R$127,13**
+**Orçamento total: R$ 127,13**
 
 ## Funcionamento:
 Para utilizar o PigPoing, basta colocar sua moeda no "cofrinho" e indicar a quantia inserida através do monitor serial. Caso o projeto tivesse sido feito fisicamente, o esquema do monitor serial poderia ser facilmente substituido por botões, sendo cada botão designado para um valor de moeda diferente. Dessa forma, o cofre faz a contagem das moedas e da quantia em dinheiro que foi depositada. 
