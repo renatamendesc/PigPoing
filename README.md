@@ -22,13 +22,13 @@ Quantidade|Componente|Preço
 **Orçamento total: R$ 127,13**
 
 ## Funcionamento:
-Para utilizar o PigPoing, basta colocar sua moeda no "cofrinho" e indicar a quantia inserida através do monitor serial. Caso o projeto tivesse sido feito fisicamente, o esquema do monitor serial poderia ser facilmente substituido por botões, sendo cada botão designado para um valor de moeda diferente. Dessa forma, o cofre faz a contagem das moedas e da quantia em dinheiro que foi depositada. 
+Para utilizar o PigPoing, basta colocar sua moeda no "cofrinho" e indicar a quantia inserida através do monitor serial. Caso o projeto tivesse sido feito fisicamente, o esquema do monitor serial poderia ser facilmente substituido por botões, sendo cada botão designado a um valor de moeda diferente. Dessa forma, o cofre faz a contagem das moedas e da quantia em dinheiro que foi depositada. 
 
 A seguir, tem-se um modelo idealizado do PigPoing na sua forma física:
 
 ![PigPing](https://cdn.discordapp.com/attachments/806262947160653834/814184223681675344/porquinho.jpeg)
 
-Por fim, é necessário esclarecer que, uma vez que a quantidade das moedas é exibida em dois displays de 7 segmentos, a contagem de moedas vai até 99. Sendo assim, o PigPoing foi programado para zerar a contagem de moedas quando atingida a quantidade máxima.
+Por fim, é necessário esclarecer que, uma vez que a quantidade de moedas é exibida em dois displays de 7 segmentos, a contagem de moedas vai até 99. Sendo assim, o PigPoing foi programado para zerar a contagem de moedas quando atingida a quantidade máxima.
 ## Colaboradores:
 * Gabriel Alexandre Carvalho
 * [Joaquim Breno Brito Cavalcante](https://github.com/JoaquimBreno)
