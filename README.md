@@ -1,5 +1,5 @@
 # PigPoing
-PigPoing se trata de uma espécie de "cofrinho inteligente", onde você insere suas moedas e ele conta a quantidade inserida, bem como o valor total em reais depositado. O valor monetário aparece em um display LCD, enquanto a quantidade de moedas é exibida em dois displays de 7 segmentos.
+PigPoing is a smart piggy bank, where you insert your coins, so it counts the ammount inside it and also the total value total of money deposited. The value shows up on a LCD display, meanwhile the number of coins on a 7 segment display.
 
 ![Pig Poing Logo](https://cdn.discordapp.com/attachments/806262947160653834/814207232412483584/pigPoingLogo.png)
 
