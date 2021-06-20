@@ -20,7 +20,7 @@ Quantity|Component|Price
 
 **Total budget: R$ 127,13**
 
-## Results
+## Running
 To use PigPoing, you have to insert a coin on the piggy bank and indicate the value by the serial monitor. If the project was made physically, the serial monitor could have been replaced with buttons, which each button would mean a different value for a coin. This way, PigPoing counts all the coins and money inside it.
 
 There's an idealized model of PigPoing on its physical form below:
@@ -29,7 +29,7 @@ There's an idealized model of PigPoing on its physical form below:
 
 It's also important to clarify that once the number of coins is shown on two 7 segment displays, the counting goes from 0 to 99. After 99 coins, PigPoing was programmed to reset the count, starting once again from 0.
 
-## Colaboradores:
+## Contributors
 * Gabriel Alexandre Carvalho
 * [Joaquim Breno Brito Cavalcante](https://github.com/JoaquimBreno)
 * Maria Cândida Barbosa Lima
