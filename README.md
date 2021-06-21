@@ -6,7 +6,7 @@ PigPoing is a smart piggy bank for you to insert your coins in it. It'll count t
 It's important to clarify that this project wasn't made physically. It was developed using the Arduino online simulator, [tinkercad](https://www.tinkercad.com/). 
 
 ## Components and prices
-Even though the project wasn't made physically, which means that no money was spent on it, there's a list with all of the components used on the circuit and its prices below:
+Even though the project wasn't made physically, which means that no money was spent on it, there's a list of all the components used on the circuit and its prices below:
 
 Quantity|Component|Price
 ---|---|---
