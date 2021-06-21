@@ -19,7 +19,7 @@ void loop(){
     totalValue += Serial.parseFloat();
     currentValue = Serial.parseFloat();
     
-  	LCD.print("Valor: R$");
+  	LCD.print("Value: $");
     LCD.print(totalValue);
     
     if(currentValue == 99){
